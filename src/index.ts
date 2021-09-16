@@ -1,5 +1,5 @@
-import { Santa } from "./Santa/Santa";
-import { Elf } from "./Elf/Elf";
+import { Santa } from "./GiftDeliverer/Santa";
+import { Elf } from "./Directions/Elf";
 const partOne = () => {
   let santa = new Santa();
   let elf = new Elf();

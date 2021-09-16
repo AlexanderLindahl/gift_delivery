@@ -1,5 +1,5 @@
-import { Elf } from "../Elf/Elf";
-import { Santa } from "../Santa/Santa";
+import { Elf } from "../Directions/Elf";
+import { Santa } from "../GiftDeliverer/Santa";
 
 describe("Santa should deliver presents to houses according to directions", () => {
   const deliveryScenarios = [
